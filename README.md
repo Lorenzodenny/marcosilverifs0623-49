@@ -14,5 +14,5 @@ Funzioni implementate:
 - fetch centralizzata;
 - mylibrary(gestione preferiti redux);
 - al click sull'album porta ai brani;
-- al click sul singolo brano mostra il player sul footer con i dettagli della canzone. 
+- al click sul singolo brano mostra il player sul footer con i dettagli della canzone.
 
